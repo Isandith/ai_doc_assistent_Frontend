@@ -581,8 +581,7 @@ This project was built with these amazing technologies:
 
 **Version:** 0.1.0  
 **Status**: Active Development 🚀  
-**Last Updated:** March 2026  
-**Maintainer**: [Your Organization]
+**Last Updated:** March 2026
 
 Made with ❤️ using Next.js and React
 
